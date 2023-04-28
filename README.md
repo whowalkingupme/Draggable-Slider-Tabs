@@ -1,6 +1,6 @@
 # Draggable Slider Tabs in HTML CSS & JavaScript
 
-
+![Draggable-Slider-or-Filter-Tabs-Like-YouTube-in-HTML-CSS-JavaScript](https://user-images.githubusercontent.com/46256884/235072714-b7197750-784d-4cc6-bd0e-dbaa6fcce9c5.jpg)
 
 You would have seen the draggable slider tabs on YouTube that filter videos according to the user’s interest. If you’re curious about how to create it with vanilla JavaScript, you can continue reading this blog.
 
